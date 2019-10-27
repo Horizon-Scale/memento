@@ -16,7 +16,7 @@ Une liste de ressources web sur le développement.
 ## Outils
 
 ### Qualité logicielle
-- [Themis de Promyze](http://promyze.com/themis): Themis est une plateforme permettant de diffusier des bonnes pratiques de développement et d'animer une stratégie de clean code.
+- [Themis de Promyze](http://promyze.com/themis): Themis est une plateforme permettant de diffuser des bonnes pratiques de développement et d'animer une stratégie de clean code.
 
 ### Déploiement
 - [AWX - Ansible Tower](https://github.com/ansible/awx): AWX est la version open source d'Ansible Tower qui est un orchestrateur de playbooks Ansible.
