@@ -10,6 +10,7 @@ Une liste de ressources web sur le développement.
     - [Déploiement](#d%c3%a9ploiement)
       - [Infrastructure As Code](#infrastructure-as-code)
       - [CI/CD](#cicd)
+    - [Ressources Web](#ressources-web)
     - [Tests](#tests)
       - [Tests de charges](#tests-de-charges)
       - [Tests automatisés](#tests-automatis%c3%a9s)
@@ -59,6 +60,14 @@ Une liste de ressources web sur le développement.
 - [Gitlab](https://about.gitlab.com/product/continuous-integration/)
 - [Azure Pipeline](https://azure.microsoft.com/fr-fr/services/devops/pipelines/) : CI/CD intégré a Azure DevOps
 
+### Ressources Web
+
+- [CodePen](https://codepen.io/picks/pens/) : CodePen est une communauté en ligne et un éditeur permettant de tester et de présenter des extraits de code HTML, CSS et JavaScript créés par les utilisateurs.
+
+- [ColorHunt](https://colorhunt.co/)
+
+- [Pesticide](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh) : extention chrome pour visualiser les boxs CSS
+
 ### Tests
 
 #### Tests de charges
@@ -85,6 +94,10 @@ Une liste de ressources web sur le développement.
 
 - [POURQUOI IL FAUT LIRE LE RED BOOK DU DDD (DOMAIN DRIVEN DESIGN) !](http://promyze.com/pourquoi-lire-red-book-domain-driven-design/)
 - [DDD – La conception qui lie le fonctionnel et le code](http://blog.xebia.fr/2009/01/28/ddd-la-conception-qui-lie-le-fonctionnel-et-le-code/)
+
+### Design Pattern
+
+- [Design Pattern Factory & Abstract Factory](https://www.codingame.com/playgrounds/36103/design-pattern-factory-abstract-factory/introduction) : Article sur la mise en place d'un design pattern ("méthode de codage") factory & Abstract Factory de manière ludique. 
 
 ### TDD - Test Driven Development
 
