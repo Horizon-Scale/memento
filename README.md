@@ -5,13 +5,13 @@ Une liste de ressources web sur le développement.
 - [Simple memento](#simple-memento)
   - [Outils](#outils)
     - [Repository Git](#repository-git)
-    - [Qualité logicielle](#qualité-logicielle)
-    - [Déploiement](#déploiement)
+    - [Qualité logicielle](#qualit%c3%a9-logicielle)
+    - [Déploiement](#d%c3%a9ploiement)
       - [Infrastructure As Code](#infrastructure-as-code)
-      - [CI/CD](#ci/cd)
+      - [CI/CD](#cicd)
     - [Tests](#tests)
       - [Tests de charges](#tests-de-charges)
-      - [Tests automatisés](#tests-automatisés)
+      - [Tests automatisés](#tests-automatis%c3%a9s)
     - [Documentation](#documentation)
   - [Articles](#articles)
     - [DDD - Domain Driven Design](#ddd---domain-driven-design)
@@ -84,4 +84,5 @@ Une liste de ressources web sur le développement.
 - Clean Agile - Robert C.Martin
 
 ## Podcasts
-- http://artisandeveloppeur.fr/podcast/
+
+- [Artisan Développeur](http://artisandeveloppeur.fr/podcast/)
