@@ -4,6 +4,7 @@ Une liste de ressources web sur le développement.
 
 - [Simple memento](#simple-memento)
   - [Outils](#outils)
+    - [Editeurs et IDE](#editeurs-et-ide)
     - [Repository Git](#repository-git)
     - [Qualité logicielle](#qualit%c3%a9-logicielle)
     - [Déploiement](#d%c3%a9ploiement)
@@ -19,8 +20,16 @@ Une liste de ressources web sur le développement.
     - [Clean Code](#clean-code)
   - [Livres](#livres)
   - [Podcasts](#podcasts)
+  - [Vidéos](#vidéos)
 
 ## Outils
+
+### Editeurs et IDE
+
+- [Visual Studio](https://visualstudio.microsoft.com/fr/vs/) : IDE pour développer en C#, VB, F# et toute la plateforme .NET
+- [Visual Studio Code](https://code.visualstudio.com) : Editeur de texte se rapprochant d'un IDE, peut etre utilisé pour n'importe quel langage
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/) : IDE pour développer en Java et toute la plateforme JVM
+- [Pycharm](https://www.jetbrains.com/pycharm/) : IDE pour développer en python
 
 ### Repository Git
 
@@ -86,3 +95,7 @@ Une liste de ressources web sur le développement.
 ## Podcasts
 
 - [Artisan Développeur](http://artisandeveloppeur.fr/podcast/)
+
+## Vidéos
+
+- [Devoxx FR](https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A/videos)
