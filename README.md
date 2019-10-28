@@ -13,15 +13,16 @@ Une liste de ressources web sur le développement.
     - [Tests](#tests)
       - [Tests de charges](#tests-de-charges)
       - [Tests automatisés](#tests-automatis%c3%a9s)
+    - [Virtualisation et Containerisation](#virtualisation-et-containerisation)
     - [Documentation](#documentation)
   - [Articles](#articles)
     - [DDD - Domain Driven Design](#ddd---domain-driven-design)
     - [TDD - Test Driven Development](#tdd---test-driven-development)
     - [Clean Code](#clean-code)
-    - [Liste de ressources development web](#Liste-de-ressources-development-web)
+    - [Liste de ressources development web](#liste-de-ressources-development-web)
   - [Livres](#livres)
   - [Podcasts](#podcasts)
-  - [Vidéos](#vidéos)
+  - [Vidéos](#vid%c3%a9os)
 
 ## Outils
 
@@ -67,6 +68,12 @@ Une liste de ressources web sur le développement.
 #### Tests automatisés
 
 - [Nightwatch](https://github.com/nightwatchjs/nightwatch/) : Nightwatch est un outil permettant des tests end-to-end de site web via Webdriver en utilisant du Node.Js.
+
+### Virtualisation et Containerisation
+
+- [Docker](https://docker.com): Docker permet de créer, gérer et lancer des applications containerisées.
+- [Kubernetes](https://kubernetes.io): Kubernetes est un orchestrateur de container disposant de nombreuses fonctionnalités.
+- [Traefik](https://traefik.io): Traefik est un outil permettant de faire du reverse-proxy et du loadbalacing.
 
 ### Documentation
 
