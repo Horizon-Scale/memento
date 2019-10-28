@@ -66,7 +66,7 @@ Une liste de ressources web sur le développement.
 
 - [ColorHunt](https://colorhunt.co/)
 
-- [Pesticide](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh) : extentsion chrome pour visualiser les boxs CSS
+- [Pesticide](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh) : extention chrome pour visualiser les boxs CSS
 
 ### Tests
 
