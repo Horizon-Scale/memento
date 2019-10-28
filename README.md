@@ -10,6 +10,7 @@ Une liste de ressources web sur le développement.
     - [Déploiement](#d%c3%a9ploiement)
       - [Infrastructure As Code](#infrastructure-as-code)
       - [CI/CD](#cicd)
+    - [Ressources Web](#Ressources-WEB)
     - [Tests](#tests)
       - [Tests de charges](#tests-de-charges)
       - [Tests automatisés](#tests-automatis%c3%a9s)
@@ -58,6 +59,14 @@ Une liste de ressources web sur le développement.
 - [Github Actions](https://github.com/features/actions/)
 - [Gitlab](https://about.gitlab.com/product/continuous-integration/)
 - [Azure Pipeline](https://azure.microsoft.com/fr-fr/services/devops/pipelines/) : CI/CD intégré a Azure DevOps
+
+### Ressources WEB
+
+- [CodePen](https://codepen.io/picks/pens/) : CodePen est une communauté en ligne permettant de tester et de présenter des extraits de code HTML, CSS et JavaScript créés par les utilisateurs.
+
+- [ColorHunt](https://colorhunt.co/)
+
+- [Pesticide](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh) : extentsion chrome pour visualiser les boxs CSS
 
 ### Tests
 
