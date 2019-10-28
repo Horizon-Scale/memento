@@ -86,6 +86,10 @@ Une liste de ressources web sur le développement.
 
 - [A FEW PRINCIPLES OF CLEAN CODE](http://x-team.com/blog/principles-clean-code/)
 
+### App Brewery - Web Development source
+
+-[WEB DEVELOPMENT COURSE RESOURCES LIST](https://www.appbrewery.co/p/web-development-course-resources/)
+
 ## Livres
 
 - Clean Code - Robert C.Martin
