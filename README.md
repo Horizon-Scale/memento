@@ -19,6 +19,7 @@ Une liste de ressources web sur le développement.
   - [Articles](#articles)
     - [DDD - Domain Driven Design](#ddd---domain-driven-design)
     - [TDD - Test Driven Development](#tdd---test-driven-development)
+    - [Design Pattern](#design-pattern)
     - [Clean Code](#clean-code)
     - [Liste de ressources development web](#liste-de-ressources-development-web)
   - [Livres](#livres)
@@ -95,13 +96,13 @@ Une liste de ressources web sur le développement.
 - [POURQUOI IL FAUT LIRE LE RED BOOK DU DDD (DOMAIN DRIVEN DESIGN) !](http://promyze.com/pourquoi-lire-red-book-domain-driven-design/)
 - [DDD – La conception qui lie le fonctionnel et le code](http://blog.xebia.fr/2009/01/28/ddd-la-conception-qui-lie-le-fonctionnel-et-le-code/)
 
-### Design Pattern
-
-- [Design Pattern Factory & Abstract Factory](https://www.codingame.com/playgrounds/36103/design-pattern-factory-abstract-factory/introduction) : Article sur la mise en place d'un design pattern factory & Abstract Factory de manière ludique. 
-
 ### TDD - Test Driven Development
 
 - [Se lancer dans le TDD](http://putaindecode.io/articles/se-lancer-dans-le-tdd/)
+
+### Design Pattern
+
+- [Design Pattern Factory & Abstract Factory](https://www.codingame.com/playgrounds/36103/design-pattern-factory-abstract-factory/introduction) : Article sur la mise en place d'un design pattern factory & Abstract Factory de manière ludique.
 
 ### Clean Code
 
