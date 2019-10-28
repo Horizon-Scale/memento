@@ -19,6 +19,7 @@ Une liste de ressources web sur le développement.
     - [Clean Code](#clean-code)
   - [Livres](#livres)
   - [Podcasts](#podcasts)
+  - [Vidéos](#vidéos)
 
 ## Outils
 
@@ -86,3 +87,7 @@ Une liste de ressources web sur le développement.
 ## Podcasts
 
 - [Artisan Développeur](http://artisandeveloppeur.fr/podcast/)
+
+## Vidéos
+
+- [Devoxx FR](https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A/videos)
