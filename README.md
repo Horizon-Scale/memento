@@ -89,7 +89,7 @@ Une liste de ressources web sur le développement.
 
 ### Liste de ressources development web
 
--[LISTE DE RESSOURCES DEVELOPMENT WEB](https://www.appbrewery.co/p/web-development-course-resources/)
+- [LISTE DE RESSOURCES DEVELOPMENT WEB](https://www.appbrewery.co/p/web-development-course-resources/)
 
 ## Livres
 
