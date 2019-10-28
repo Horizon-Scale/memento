@@ -12,6 +12,7 @@ Une liste de ressources web sur le développement.
     - [TDD](#tdd)
     - [Clean Code](#clean-code)
   - [Livres](#livres)
+  - [Podcasts](#podcasts)
 
 ## Outils
 
@@ -42,3 +43,6 @@ Une liste de ressources web sur le développement.
 - Clean Code - Robert C.Martin
 - Clean Architecture - Robert C.Martin
 - Clean Agile - Robert C.Martin
+
+## Podcasts
+- http://artisandeveloppeur.fr/podcast/
