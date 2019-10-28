@@ -98,6 +98,7 @@ Une liste de ressources web sur le développement.
 ### Design Pattern
 
 - [Design Pattern Factory & Abstract Factory](https://www.codingame.com/playgrounds/36103/design-pattern-factory-abstract-factory/introduction) : Article sur la mise en place d'un design pattern ("méthode de codage") factory & Abstract Factory de manière ludique. 
+
 ### TDD - Test Driven Development
 
 - [Se lancer dans le TDD](http://putaindecode.io/articles/se-lancer-dans-le-tdd/)
