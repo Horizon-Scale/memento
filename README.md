@@ -18,6 +18,7 @@ Une liste de ressources web sur le développement.
     - [DDD - Domain Driven Design](#ddd---domain-driven-design)
     - [TDD - Test Driven Development](#tdd---test-driven-development)
     - [Clean Code](#clean-code)
+    - [Liste de ressources development web](#Liste-de-ressources-development-web)
   - [Livres](#livres)
   - [Podcasts](#podcasts)
   - [Vidéos](#vidéos)
@@ -85,6 +86,10 @@ Une liste de ressources web sur le développement.
 ### Clean Code
 
 - [A FEW PRINCIPLES OF CLEAN CODE](http://x-team.com/blog/principles-clean-code/)
+
+### Liste de ressources development web
+
+-[LISTE DE RESSOURCES DEVELOPMENT WEB](https://www.appbrewery.co/p/web-development-course-resources/)
 
 ## Livres
 
