@@ -100,7 +100,7 @@ Une liste de ressources web sur le développement.
 
 - [OpenAPI-generator](https://github.com/OpenAPITools/openapi-generator) : Outil permettant de génerer des clients (Java, python php...) à partir d'une spécification OpenAPI.
 
-- [Docusaurus](https://docusaurus.io) : Docusaurus est un outil permettant de concevoir, déployer et maintenant des site de documention.
+- [Docusaurus](https://docusaurus.io) : Docusaurus est un outil permettant de concevoir, déployer et maintenir des site de documention.
 
 ## Articles
 
