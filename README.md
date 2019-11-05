@@ -92,7 +92,7 @@ Une liste de ressources web sur le développement.
 
 ### Documentation
 
-- [OpenAPI](https://github.com/swagger-api/swagger-ui/) : Swagger génère une documentation sur les principes OpenAPI. Il permet aussi de tester les routes de l'API via une interface. Il existe différente library en fonction du langage de programmation.
+- [Swagger](https://github.com/swagger-api/swagger-ui/) : Swagger génère une documentation sur les principes OpenAPI. Il permet aussi de tester les routes de l'API via une interface. Il existe différente library en fonction du langage de programmation.
 
 - [OpenAPI](https://www.openapis.org/)
 
