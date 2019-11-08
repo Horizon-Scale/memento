@@ -26,6 +26,7 @@ Une liste de ressources web sur le développement.
   - [Livres](#livres)
   - [Podcasts](#podcasts)
   - [Vidéos](#vid%c3%a9os)
+  - [Autres Ressources](#autres-ressources)
 
 ## Outils
 
@@ -138,3 +139,7 @@ Une liste de ressources web sur le développement.
 ## Vidéos
 
 - [Devoxx FR](https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A/videos)
+
+## Autres Ressources
+
+- [Github Student Pack](https://education.github.com/pack)
