@@ -14,6 +14,7 @@ Une liste de ressources web sur le développement.
     - [Tests](#tests)
       - [Tests de charges](#tests-de-charges)
       - [Tests automatisés](#tests-automatis%c3%a9s)
+      - [Autre](#autre)
     - [Virtualisation et Containerisation](#virtualisation-et-containerisation)
     - [Documentation](#documentation)
   - [Articles](#articles)
@@ -25,6 +26,7 @@ Une liste de ressources web sur le développement.
   - [Livres](#livres)
   - [Podcasts](#podcasts)
   - [Vidéos](#vid%c3%a9os)
+  - [Autres Ressources](#autres-ressources)
 
 ## Outils
 
@@ -79,6 +81,10 @@ Une liste de ressources web sur le développement.
 
 - [Nightwatch](https://github.com/nightwatchjs/nightwatch/) : Nightwatch est un outil permettant des tests end-to-end de site web via Webdriver en utilisant du Node.Js.
 
+#### Autre
+
+- [Postman](https://www.getpostman.com/): Postman est un outil permettant d'envoyer toutes sortes de requêtes sur une API.
+
 ### Virtualisation et Containerisation
 
 - [Docker](https://docker.com): Docker permet de créer, gérer et lancer des applications containerisées.
@@ -88,6 +94,14 @@ Une liste de ressources web sur le développement.
 ### Documentation
 
 - [Swagger](https://github.com/swagger-api/swagger-ui/) : Swagger génère une documentation sur les principes OpenAPI. Il permet aussi de tester les routes de l'API via une interface. Il existe différente library en fonction du langage de programmation.
+
+- [OpenAPI](https://www.openapis.org/)
+
+- [OpenAPI-to-Postman](https://github.com/postmanlabs/openapi-to-postman) : Plugin permettant de convertir des specifications OpenAPI en collections Postman.
+
+- [OpenAPI-generator](https://github.com/OpenAPITools/openapi-generator) : Outil permettant de génerer des clients (Java, python php...) à partir d'une spécification OpenAPI.
+
+- [Docusaurus](https://docusaurus.io) : Docusaurus est un outil permettant de concevoir, déployer et maintenir des site de documention.
 
 ## Articles
 
@@ -125,3 +139,7 @@ Une liste de ressources web sur le développement.
 ## Vidéos
 
 - [Devoxx FR](https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A/videos)
+
+## Autres Ressources
+
+- [Github Student Pack](https://education.github.com/pack)
