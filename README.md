@@ -1,5 +1,7 @@
 # Simple memento
 
+[![Actions Status](https://github.com/AydenHex/memento/workflows/Markdown%20Lint%20with%20Node%20CI/badge.svg)](https://github.com/AydenHex/memento/actions)
+
 Une liste de ressources web sur le développement.
 
 - [Simple memento](#simple-memento)
