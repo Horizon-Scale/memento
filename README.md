@@ -119,6 +119,7 @@ Une liste de ressources web sur le développement.
 - [Design Pattern Factory & Abstract Factory](https://www.codingame.com/playgrounds/36103/design-pattern-factory-abstract-factory/introduction) : Article sur la mise en place d'un design pattern factory & Abstract Factory de manière ludique.
 
 -[Difference entre MVC et MVP](https://progaide.com/question/2056-que-sont-mvp-et-mvc-et-quelle-est-la-diff-rence) : Question/réponses autour de la question de la différence entre les design patterns MVC et MVP. 
+
 ### Clean Code
 
 - [A FEW PRINCIPLES OF CLEAN CODE](http://x-team.com/blog/principles-clean-code/)
