@@ -17,9 +17,8 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
-    - name: npm install and test markdown
+    - name: test markdown
       run: |
-        npm ci
         npm install -g markdownlint-cli
         markdownlint '**/*.md' --ignore node_modules
       env:
