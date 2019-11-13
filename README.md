@@ -1,6 +1,6 @@
 # Simple memento
 
-[![Build Status](https://dev.azure.com/Horizon-Scale/memento/_apis/build/status/Horizon-Scale.memento?branchName=master)](https://dev.azure.com/Horizon-Scale/memento/_build/latest?definitionId=1&branchName=master)
+[![Actions Status](https://github.com/Horizon-Scale/memento/workflows/Markdown%20Lint%20with%20Node%20CI/badge.svg)](https://github.com/Horizon-Scale/memento/actions)
 
 Une liste de ressources web sur le développement.
 
