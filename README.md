@@ -17,6 +17,7 @@ Une liste de ressources web sur le développement.
       - [Autre](#autre)
     - [Virtualisation et Containerisation](#virtualisation-et-containerisation)
     - [Documentation](#documentation)
+    - [Apprentissage](#apprentissage)
   - [Articles](#articles)
     - [DDD - Domain Driven Design](#ddd---domain-driven-design)
     - [TDD - Test Driven Development](#tdd---test-driven-development)
@@ -90,7 +91,9 @@ Une liste de ressources web sur le développement.
 - [Docker](https://docker.com): Docker permet de créer, gérer et lancer des applications containerisées.
 - [Kubernetes](https://kubernetes.io): Kubernetes est un orchestrateur de container disposant de nombreuses fonctionnalités.
 - [Traefik](https://traefik.io): Traefik est un outil permettant de faire du reverse-proxy et du loadbalacing.
-
+- [MicroK8S](https://microk8s.io/): MicroK8s permet de déployement un cluster kubernetes local à un noeud.
+- [KubeSpray](https://kubespray.io/#/): Cet outil permet simplement de déployer un cluster kubernetes customisable.
+  
 ### Documentation
 
 - [Swagger](https://github.com/swagger-api/swagger-ui/) : Swagger génère une documentation sur les principes OpenAPI. Il permet aussi de tester les routes de l'API via une interface. Il existe différente library en fonction du langage de programmation.
@@ -102,6 +105,10 @@ Une liste de ressources web sur le développement.
 - [OpenAPI-generator](https://github.com/OpenAPITools/openapi-generator) : Outil permettant de génerer des clients (Java, python php...) à partir d'une spécification OpenAPI.
 
 - [Docusaurus](https://docusaurus.io) : Docusaurus est un outil permettant de concevoir, déployer et maintenir des site de documention.
+
+### Apprentissage
+
+- [Katacoda](https://www.katacoda.com/): Katacoda est une plateforme interactive permettant de s'initier à divers domaine (Machine learning...)
 
 ## Articles
 
