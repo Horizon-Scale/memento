@@ -38,7 +38,7 @@ Une liste de ressources web sur le développement.
 développer en C#, VB, F# et toute la plateforme .NET
 - [Visual Studio Code](https://code.visualstudio.com) : Editeur de texte se
 rapprochant d'un IDE, peut etre utilisé pour n'importe quel langage
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/) : IDE pour développer en Java
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/) : IDE pour développer en Java et Kotlin.
 et toute la plateforme JVM
 - [Pycharm](https://www.jetbrains.com/pycharm/) : IDE pour développer en python
 
@@ -116,6 +116,10 @@ container disposant de nombreuses fonctionnalités.
 - [Traefik](https://traefik.io): Traefik est un outil permettant de faire du
 reverse-proxy et du loadbalacing.
 
+-[CoreOS](https://blog.octo.com/a-la-decouverte-de-coreos/): Une distribution linux pour le cloud basée que sur la technologie des conteneurs.
+
+-[OpenShift](https://blog.octo.com/openshift-3-le-paas-prive-avec-docker/): Une solution PaaS privée et openSource permettant de construire, déployer et executer des applications dans des containers.
+
 ### Documentation
 
 - [Swagger](https://github.com/swagger-api/swagger-ui/) : Swagger génère une
@@ -152,11 +156,7 @@ concevoir, déployer et maintenir des site de documention.
 :Article sur la mise en place d'un design pattern factory &
 Abstract Factory de manière ludique.
 
-- [Difference entre MVC et MVP](https://progaide.com/question/2056-que-sont-mvp-et-mvc-et-quelle-est-la-diff-rence)
-: Question/réponses autour de la question de la différence entre
-les design patterns MVC et MVP.
-
-- [Difference entre MVC et MVP](https://progaide.com/question/2056-que-sont-mvp-et-mvc-et-quelle-est-la-diff-rence) : Question/réponses autour de la question de la différence entre les design patterns MVC et MVP. 
+- [Difference entre MVC et MVP](https://progaide.com/question/2056-que-sont-mvp-et-mvc-et-quelle-est-la-diff-rence) : Question/réponses autour de la question de la différence entre les design patterns MVC et MVP.
 
 ### Clean Code
 
