@@ -24,6 +24,7 @@ Une liste de ressources web sur le développement.
     - [TDD - Test Driven Development](#tdd---test-driven-development)
     - [Design Pattern](#design-pattern)
     - [Clean Code](#clean-code)
+    - [Containerisation](#Containerisation)
     - [Liste de ressources development web](#liste-de-ressources-development-web)
   - [Livres](#livres)
   - [Podcasts](#podcasts)
@@ -115,9 +116,9 @@ applications containerisées.
 container disposant de nombreuses fonctionnalités.
 - [Traefik](https://traefik.io): Traefik est un outil permettant de faire du
 reverse-proxy et du loadbalacing.
-- [CoreOS](https://blog.octo.com/a-la-decouverte-de-coreos/): Une distribution linux
+- [CoreOS](https://coreos.com/): Une distribution linux
 pour le cloud basée que sur la technologie des conteneurs.
-- [OpenShift](https://blog.octo.com/openshift-3-le-paas-prive-avec-docker/):
+- [OpenShift](https://www.openshift.com/):
 Une solution PaaS privée et openSource permettant de construire,
 déployer et executer des applications dans des containers.
 
@@ -165,6 +166,14 @@ entre les design patterns MVC et MVP.
 ### Clean Code
 
 - [A FEW PRINCIPLES OF CLEAN CODE](http://x-team.com/blog/principles-clean-code/)
+
+### Containerisation
+
+- [CoreOS](https://blog.octo.com/a-la-decouverte-de-coreos/): Pour débuter avec
+CoreOs.
+
+- [OpenShift](https://blog.octo.com/openshift-3-le-paas-prive-avec-docker/):
+Pour debuter avec openshift.
 
 ### Liste de ressources development web
 
