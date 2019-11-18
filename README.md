@@ -117,8 +117,9 @@ container disposant de nombreuses fonctionnalités.
 reverse-proxy et du loadbalacing.
 - [CoreOS](https://blog.octo.com/a-la-decouverte-de-coreos/): Une distribution linux
 pour le cloud basée que sur la technologie des conteneurs.
-- [OpenShift](https://blog.octo.com/openshift-3-le-paas-prive-avec-docker/):Une solution PaaS privée
-et openSource permettant de construire, déployer et executer des applications dans des containers.
+- [OpenShift](https://blog.octo.com/openshift-3-le-paas-prive-avec-docker/):
+Une solution PaaS privée et openSource permettant de construire,
+déployer et executer des applications dans des containers.
 
 ### Documentation
 
@@ -153,12 +154,11 @@ déployer et maintenir des site de documention.
 
 ### Design Pattern
 
-- [Design Pattern Factory & Abstract Factory](https://www.codingame.com/playgrounds/36103/design-pattern-factory-abstract-factory/introduction)
-:Article sur la mise en place d'un design pattern factory &
-Abstract Factory de manière ludique.
+- [Design Pattern Factory & Abstract Factory](https://www.codingame.com/playgrounds/36103/design-pattern-factory-abstract-factory/introduction):
+Article sur la mise en place d'un design pattern factory & Abstract Factory de manière ludique.
 
-- [Difference entre MVC et MVP](https://progaide.com/question/2056-que-sont-mvp-et-mvc-et-quelle-est-la-diff-rence) : Question/réponses autour de la question
-de la différence entre les design patterns MVC et MVP.
+- [Difference entre MVC et MVP](https://progaide.com/question/2056-que-sont-mvp-et-mvc-et-quelle-est-la-diff-rence) :
+Question/réponses autour de la question de la différence entre les design patterns MVC et MVP.
 
 ### Clean Code
 
