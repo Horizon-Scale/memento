@@ -182,6 +182,8 @@ Pour debuter avec openshift.
 
 - [LISTE DE RESSOURCES DEVELOPMENT WEB](https://www.appbrewery.co/p/web-development-course-resources/)
 
+- [Putain de code](https://putaindecode.io/)
+
 ## Livres
 
 - Clean Code - Robert C.Martin
