@@ -129,6 +129,9 @@ documentation sur les principes OpenAPI.
 Il permet aussi de tester les routes de l'API via une interface.
 Il existe différente library en fonction du langage de programmation.
 
+- [SoapUI](https://www.soapui.org/downloads/soapui.html) :
+Pour faire toute sorte de tests sur une/des API(s).
+
 - [OpenAPI](https://www.openapis.org/)
 
 - [OpenAPI-to-Postman](https://github.com/postmanlabs/openapi-to-postman) :
