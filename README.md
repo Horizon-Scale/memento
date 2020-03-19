@@ -25,7 +25,7 @@ Une liste de ressources web sur le développement.
     - [Design Pattern](#design-pattern)
     - [Clean Code](#clean-code)
     - [Containerisation](#Containerisation)
-    - [Liste de ressources development web](#liste-de-ressources-development-web)
+    - [Liste de ressources developpement web](#liste-de-ressources-developpement-web)
   - [Livres](#livres)
   - [Podcasts](#podcasts)
   - [Vidéos](#vid%c3%a9os)
