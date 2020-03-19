@@ -25,7 +25,7 @@ Une liste de ressources web sur le développement.
     - [Design Pattern](#design-pattern)
     - [Clean Code](#clean-code)
     - [Containerisation](#Containerisation)
-    - [Liste de ressources development web](#liste-de-ressources-development-web)
+    - [Liste de ressources developpement web](#liste-de-ressources-developpement-web)
   - [Livres](#livres)
   - [Podcasts](#podcasts)
   - [Vidéos](#vid%c3%a9os)
@@ -42,6 +42,7 @@ rapprochant d'un IDE, peut etre utilisé pour n'importe quel langage
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/) :
 IDE pour développer en Java/Kotlin ainsi que toute la plateforme JVM.
 - [Pycharm](https://www.jetbrains.com/pycharm/) : IDE pour développer en python
+- [Webstorm](https://www.jetbrains.com/webstorm/) : IDE pour développer en JavaScript et NodeJS
 
 ### Repository Git
 
@@ -178,7 +179,7 @@ CoreOs.
 - [OpenShift](https://blog.octo.com/openshift-3-le-paas-prive-avec-docker/):
 Pour debuter avec openshift.
 
-### Liste de ressources development web
+### Liste de ressources developpement web
 
 - [LISTE DE RESSOURCES DEVELOPMENT WEB](https://www.appbrewery.co/p/web-development-course-resources/)
 
