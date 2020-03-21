@@ -202,3 +202,5 @@ Pour debuter avec openshift.
 ## Autres Ressources
 
 - [Github Student Pack](https://education.github.com/pack)
+
+- [Udemy-dl](https://github.com/r0oth3x49/udemy-dl): logiciel en console vous permettant de dl VOS cours udemy en local.
