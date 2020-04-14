@@ -1,6 +1,6 @@
 # Simple memento
 
-[![Actions Status](https://github.com/Horizon-Scale/memento/workflows/Markdown%20Lint%20with%20Node%20CI/badge.svg)](https://github.com/Horizon-Scale/memento/actions)
+![Markdown Lint](https://github.com/Horizon-Scale/memento/workflows/Markdown%20Lint/badge.svg)
 
 Une liste de ressources web sur le développement.
 
