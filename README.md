@@ -102,23 +102,23 @@ TML, CSS et JavaScript créés par les utilisateurs.
 
 - [ModernCss](https://moderncss.dev/):  Une serie de "tuto" pour vous réconforter avec CSS3
 
--[AnimateCSS](https://animate.style/) : Une librairie vous permettant d'animer avec du CSS très simplement.
+- [AnimateCSS](https://animate.style/) : Une librairie vous permettant d'animer avec du CSS très simplement.
 
 #### JS
 
--[Dev ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q/playlists) : Une chaine youtube sur le front end avec bcp d'animation JS
+- [Dev ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q/playlists) : Une chaine youtube sur le front end avec bcp d'animation JS
 
--[DevTheory](https://www.youtube.com/channel/UCgJERWtcvu-JiPq5wBkYF1g): Une chaine youtube (Francaise !) axée sur le partage d'informations concernant JS et uniquement JS
+- [DevTheory](https://www.youtube.com/channel/UCgJERWtcvu-JiPq5wBkYF1g): Une chaine youtube (Francaise !) axée sur le partage d'informations concernant JS et uniquement JS
 
--[markusOberlehner](https://markus.oberlehner.net/): Un blog sur des techniques avancées JS et Vue.js
+- [markusOberlehner](https://markus.oberlehner.net/): Un blog sur des techniques avancées JS et Vue.js
 
--[Deno.land](https://deno.land/): Le prochain node ?
+- [Deno.land](https://deno.land/): Le prochain node ?
 
--[AnimeJS](https://animejs.com/) : Une libraire vous permettant de réaliser de superbe animation en JS
+- [AnimeJS](https://animejs.com/) : Une libraire vous permettant de réaliser de superbe animation en JS
 
--[BabylonJS](https://www.babylonjs.com/): Une librarie pour le webGL
+- [BabylonJS](https://www.babylonjs.com/): Une librarie pour le webGL
 
--[Phaser](https://phaser.io/): Des Jeux Vidéos en Html5 et JS !!
+- [Phaser](https://phaser.io/): Des Jeux Vidéos en Html5 et JS !!
 
 ### Tests
 
@@ -210,7 +210,7 @@ Pour debuter avec openshift.
 
 ### Articles Developpement Web
 
--[Medium](https://medium.com/@bretcameron/12-javascript-tricks-you-wont-find-in-most-tutorials-a9c9331f169d): 11 astuces JS (ES6+) pour vous faciliter vraiment la vie
+- [Medium](https://medium.com/@bretcameron/12-javascript-tricks-you-wont-find-in-most-tutorials-a9c9331f169d): 11 astuces JS (ES6+) pour vous faciliter vraiment la vie
 
 ### Liste de ressources developpement web
 
