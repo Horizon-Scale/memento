@@ -13,6 +13,8 @@ Une liste de ressources web sur le développement.
       - [Infrastructure As Code](#infrastructure-as-code)
       - [CI/CD](#cicd)
     - [Ressources Web](#ressources-web)
+      - [CSS](#CSS)
+      - [JS](#JS)
     - [Tests](#tests)
       - [Tests de charges](#tests-de-charges)
       - [Tests automatisés](#tests-automatis%c3%a9s)
@@ -90,6 +92,32 @@ TML, CSS et JavaScript créés par les utilisateurs.
 
 - [Pesticide](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh)
 : extention chrome pour visualiser les boxs CSS
+
+#### CSS
+
+- [Courstro](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
+
+- [CSS Tricks](https://css-tricks.com/): Le CSS est votre ami et ce site est là pour vous le prouver.
+
+- [ModernCss](https://moderncss.dev/):  Une serie de "tuto" pour vous réconforter avec CSS3
+
+-[AnimateCSS](https://animate.style/) : Une librairie vous permettant d'animer avec du CSS très simplement.
+
+#### JS
+
+-[Dev ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q/playlists) : Une chaine youtube sur le front end avec bcp d'animation JS
+
+-[DevTheory](https://www.youtube.com/channel/UCgJERWtcvu-JiPq5wBkYF1g): Une chaine youtube (Francaise !) axée sur le partage d'informations concernant JS et uniquement JS
+
+-[markusOberlehner](https://markus.oberlehner.net/): Un blog sur des techniques avancées JS et Vue.js
+
+-[Deno.land](https://deno.land/): Le prochain node ?
+
+-[AnimeJS](https://animejs.com/) : Une libraire vous permettant de réaliser de superbe animation en JS
+
+-[BabylonJS](https://www.babylonjs.com/): Une librarie pour le webGL
+
+-[Phaser](https://phaser.io/): Des Jeux Vidéos en Html5 et JS !
 
 ### Tests
 
