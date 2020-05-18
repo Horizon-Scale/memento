@@ -27,7 +27,7 @@ Une liste de ressources web sur le développement.
     - [Design Pattern](#design-pattern)
     - [Clean Code](#clean-code)
     - [Containerisation](#Containerisation)
-    - [Articles developpement web](#Articles_developpement_web)
+    - [Developpement Web](#Developpement-Web)
     - [Liste de ressources developpement web](#liste-de-ressources-developpement-web)
   - [Livres](#livres)
   - [Podcasts](#podcasts)
@@ -208,9 +208,9 @@ CoreOs.
 - [OpenShift](https://blog.octo.com/openshift-3-le-paas-prive-avec-docker/):
 Pour debuter avec openshift.
 
-### Articles Developpement Web
+### Developpement Web
 
-- [Medium](https://medium.com/@bretcameron/12-javascript-tricks-you-wont-find-in-most-tutorials-a9c9331f169d): 11 astuces JS (ES6+) pour vous faciliter vraiment la vie
+- [11 JavaScript Tricks You Won’t Find in Most Tutorials](https://medium.com/@bretcameron/12-javascript-tricks-you-wont-find-in-most-tutorials-a9c9331f169d)
 
 ### Liste de ressources developpement web
 
