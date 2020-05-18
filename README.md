@@ -207,6 +207,10 @@ CoreOs.
 - [OpenShift](https://blog.octo.com/openshift-3-le-paas-prive-avec-docker/):
 Pour debuter avec openshift.
 
+### JS
+
+-[Medium](https://medium.com/@bretcameron/12-javascript-tricks-you-wont-find-in-most-tutorials-a9c9331f169d): 11 astuces JS (ES6+) pour vous faciliter vraiment la vie
+
 ### Liste de ressources developpement web
 
 - [LISTE DE RESSOURCES DEVELOPMENT WEB](https://www.appbrewery.co/p/web-development-course-resources/)
