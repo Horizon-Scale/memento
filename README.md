@@ -13,8 +13,9 @@ Une liste de ressources web sur le développement.
       - [Infrastructure As Code](#infrastructure-as-code)
       - [CI/CD](#cicd)
     - [Ressources Web](#ressources-web)
-      - [CSS](#CSS)
-      - [JS](#JS)
+      - [CSS](#css)
+      - [Framework CSS](#framework-css)
+      - [JS](#js)
     - [Tests](#tests)
       - [Tests de charges](#tests-de-charges)
       - [Tests automatisés](#tests-automatis%c3%a9s)
@@ -99,7 +100,7 @@ TML, CSS et JavaScript créés par les utilisateurs.
 - [ModernCss](https://moderncss.dev/):  Une serie de "tuto" pour vous réconforter avec CSS3
 - [AnimateCSS](https://animate.style/) : Une librairie vous permettant d'animer avec du CSS très simplement.
 
-##### Tailwind
+#### Framework CSS
 
 - [Tailwind](https://tailwindcss.com/) : Un framework css utilitaire, met en avant des classes pour rapidement créer ses propres composants au lieu de donner directement des composants comme d'autre framework tel que Bootstrap. Très facilement customisable et configurable.
 
