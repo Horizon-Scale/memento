@@ -105,7 +105,7 @@ TML, CSS et JavaScript créés par les utilisateurs.
 
 Divers site web avec des composants fait en tailwind pour s'inspirer du code ou l'integrer au sien :
 
-- [TailwindUI](https://tailwindui.com/components/) 
+- [TailwindUI](https://tailwindui.com/components/)
 - [TailwindComponents](https://tailwindcomponents.com/)
 - [TailwindToolbox](https://www.tailwindtoolbox.com/)
 - [Tailblocks](https://mertjf.github.io/tailblocks/)
