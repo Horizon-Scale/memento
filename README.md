@@ -13,8 +13,9 @@ Une liste de ressources web sur le développement.
       - [Infrastructure As Code](#infrastructure-as-code)
       - [CI/CD](#cicd)
     - [Ressources Web](#ressources-web)
-      - [CSS](#CSS)
-      - [JS](#JS)
+      - [CSS](#css)
+      - [Framework CSS](#framework-css)
+      - [JS](#js)
     - [Tests](#tests)
       - [Tests de charges](#tests-de-charges)
       - [Tests automatisés](#tests-automatis%c3%a9s)
@@ -88,36 +89,36 @@ cloud AWS, Azure et GCP.
 - [CodePen](https://codepen.io/picks/pens/) : CodePen est une communauté en
 ligne et un éditeur permettant de tester et de présenter des extraits de code
 TML, CSS et JavaScript créés par les utilisateurs.
-
 - [ColorHunt](https://colorhunt.co/)
-
 - [Pesticide](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh)
 : extention chrome pour visualiser les boxs CSS
 
 #### CSS
 
 - [Courstro](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
-
 - [CSS Tricks](https://css-tricks.com/): Le CSS est votre ami et ce site est là pour vous le prouver.
-
 - [ModernCss](https://moderncss.dev/):  Une serie de "tuto" pour vous réconforter avec CSS3
-
 - [AnimateCSS](https://animate.style/) : Une librairie vous permettant d'animer avec du CSS très simplement.
+
+#### Framework CSS
+
+- [Tailwind](https://tailwindcss.com/) : Un framework css utilitaire, met en avant des classes pour rapidement créer ses propres composants au lieu de donner directement des composants comme d'autre framework tel que Bootstrap. Très facilement customisable et configurable.
+
+Divers site web avec des composants fait en tailwind pour s'inspirer du code ou l'integrer au sien :
+
+- [TailwindUI](https://tailwindui.com/components/)
+- [TailwindComponents](https://tailwindcomponents.com/)
+- [TailwindToolbox](https://www.tailwindtoolbox.com/)
+- [Tailblocks](https://mertjf.github.io/tailblocks/)
 
 #### JS
 
 - [Dev ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q/playlists) : Une chaine youtube sur le front end avec bcp d'animation JS
-
 - [DevTheory](https://www.youtube.com/channel/UCgJERWtcvu-JiPq5wBkYF1g): Une chaine youtube (Francaise !) axée sur le partage d'informations concernant JS et uniquement JS
-
 - [markusOberlehner](https://markus.oberlehner.net/): Un blog sur des techniques avancées JS et Vue.js
-
 - [Deno.land](https://deno.land/): Le prochain node ?
-
 - [AnimeJS](https://animejs.com/) : Une libraire vous permettant de réaliser de superbe animation en JS
-
 - [BabylonJS](https://www.babylonjs.com/): Une librarie pour le webGL
-
 - [Phaser](https://phaser.io/): Des Jeux Vidéos en Html5 et JS !!
 
 ### Tests
@@ -158,19 +159,14 @@ déployer et executer des applications dans des containers.
 documentation sur les principes OpenAPI.
 Il permet aussi de tester les routes de l'API via une interface.
 Il existe différente library en fonction du langage de programmation.
-
 - [SoapUI](https://www.soapui.org/downloads/soapui.html) :
 Pour faire toute sorte de tests sur une/des API(s).
-
 - [OpenAPI](https://www.openapis.org/)
-
 - [OpenAPI-to-Postman](https://github.com/postmanlabs/openapi-to-postman) :
 Plugin permettant de convertir des specifications OpenAPI en collections Postman.
-
 - [OpenAPI-generator](https://github.com/OpenAPITools/openapi-generator) :
 Outil permettant de génerer des clients (Java, python php...) à partir d'une
 spécification OpenAPI.
-
 - [Docusaurus](https://docusaurus.io) :
 Docusaurus est un outil permettant de concevoir,
 déployer et maintenir des site de documention.
@@ -191,7 +187,6 @@ déployer et maintenir des site de documention.
 - [Design Pattern Factory & Abstract Factory](https://www.codingame.com/playgrounds/36103/design-pattern-factory-abstract-factory/introduction)
 : Article sur la mise en place d'un design pattern factory
  & abstract Factory de manière ludique.
-
 - [Difference entre MVC et MVP](https://progaide.com/question/2056-que-sont-mvp-et-mvc-et-quelle-est-la-diff-rence)
 : Question/réponses autour de la question de la différence
 entre les design patterns MVC et MVP.
@@ -204,7 +199,6 @@ entre les design patterns MVC et MVP.
 
 - [CoreOS](https://blog.octo.com/a-la-decouverte-de-coreos/): Pour débuter avec
 CoreOs.
-
 - [OpenShift](https://blog.octo.com/openshift-3-le-paas-prive-avec-docker/):
 Pour debuter avec openshift.
 
@@ -215,7 +209,6 @@ Pour debuter avec openshift.
 ### Liste de ressources developpement web
 
 - [LISTE DE RESSOURCES DEVELOPMENT WEB](https://www.appbrewery.co/p/web-development-course-resources/)
-
 - [Putain de code](https://putaindecode.io/)
 
 ## Livres
@@ -235,5 +228,4 @@ Pour debuter avec openshift.
 ## Autres Ressources
 
 - [Github Student Pack](https://education.github.com/pack)
-
 - [Udemy-dl](https://github.com/r0oth3x49/udemy-dl): logiciel en console vous permettant de dl VOS cours udemy en local.
